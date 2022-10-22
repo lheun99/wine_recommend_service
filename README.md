@@ -1,4 +1,4 @@
-## Wine Cellar
+## 🍷 Wine Cellar
 
 ### **`Wine Cellar`**
 
